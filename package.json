@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-coders-gyan",
+  "version": "1.0.0",
+  "description": "This is crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Akash Singh <akashkumar126954@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
